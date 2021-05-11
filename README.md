@@ -6,7 +6,7 @@ ___
 
 # TP4
 
-Le but de ce TP est de réaliser une interface de choix de gestion de couleur.
+Le but de ce TP est de réaliser une interface de gestion de couleur.
 
 Ce programme devra contenir :
 
