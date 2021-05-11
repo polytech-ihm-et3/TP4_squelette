@@ -12,7 +12,7 @@ Ce programme devra contenir :
 
   - un [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) et un [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) permettant la visualisation et la modification de la composante *Rouge* de la couleur;
   - un [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) et un [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) permettant la visualisation et la modification de la composante *Vert* de la couleur;
-  -   - un [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) et un [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) permettant la visualisation et la modification de la composante *Bleu* de la couleur;
+  - un [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) et un [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) permettant la visualisation et la modification de la composante *Bleu* de la couleur;
   - un [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) permettant la visualisation et la modification de la valeur de la couleur en base [hexadécimale](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs);
   - un [*Pane*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/Pane.html) qui permet de visualiser la couleur en changeant de background.
 
