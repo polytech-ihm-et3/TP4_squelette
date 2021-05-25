@@ -24,7 +24,7 @@ Ce programme devra contenir :
 
 > Dans IntelliJ, allez dans *File* > *New* > *Project...* et selectionnez *JavaFX Application*, dans l'onglet "JavaFX".
 
-2. Créez une interface, la plus proche possible de la figure ci-dessus. Vous pouvez utiliser la méthode de votre choix.
+2. Créez une interface, la plus proche possible de la figure ci-dessus. **Vous DEVEZ réaliser cette interface manuellement**, sans passer par *SceneBuilder*.
 
 3. Créez les classes dont vous avez besoin pour faire fonctionner le programme, en respectant un pattern [*Modèle - Vue - Controlleur*](https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/).
 
@@ -32,3 +32,14 @@ Ce programme devra contenir :
 
 > Si l'utilisateur manipule le [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) d'une composante (*Rouge*, *Bleu* ou *Vert*), le [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) correspondant doit se mettre à jour et vice-versa. Une telle action doit également mettre à jour le [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) correspondant à la valeur [hexadécimale](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) de la couleur ainsi que le [*Pane*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/Pane.html) permettant sa visualisation.
 > Si l'utilisateur modifie la valeur [hexadécimale](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) de la couleur, toutes les autres vues doivent se mettre à jour.
+
+**BARÈME DU PROJET :**
+- Interface [5 pts]
+> L'interface ressemble à celle présentée. Les éléments graphiques utilisez sont choisis intelligemment.
+- Fonctionnalités [5 pts]
+> Les fonctionnalités énoncées dans le sujets sont implmementées et fonctionnent correctements.
+- Modèle - Vue - Contrôleur [8 pts]
+> Les classes créers sont clairement divisées en trois parties selon le pettern [Modèle - Vue - Contrôleur](https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/).
+- Lisibilité [2 pts]
+> Le code est lisible, correctement indenté et commenté.
+
