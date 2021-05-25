@@ -33,7 +33,10 @@ Ce programme devra contenir :
 > Si l'utilisateur manipule le [*Slider*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/Slider.html) d'une composante (*Rouge*, *Bleu* ou *Vert*), le [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) correspondant doit se mettre à jour et vice-versa. Une telle action doit également mettre à jour le [*TextField*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html) correspondant à la valeur [hexadécimale](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) de la couleur ainsi que le [*Pane*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/Pane.html) permettant sa visualisation.
 > Si l'utilisateur modifie la valeur [hexadécimale](https://fr.wikipedia.org/wiki/Couleur_du_Web#Codage_informatique_des_couleurs) de la couleur, toutes les autres vues doivent se mettre à jour.
 
-**BARÈME DU PROJET :**
+___
+
+##BARÈME DU PROJET :
+
 - Interface [5 pts]
 > L'interface ressemble à celle présentée. Les éléments graphiques utilisez sont choisis intelligemment.
 - Fonctionnalités [5 pts]
