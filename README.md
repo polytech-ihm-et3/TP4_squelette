@@ -26,7 +26,12 @@ Ce programme devra contenir :
 
 2. Créez une interface, la plus proche possible de la figure ci-dessus. **Vous DEVEZ réaliser cette interface manuellement**, sans passer par *SceneBuilder*.
 
-3. Créez les classes dont vous avez besoin pour faire fonctionner le programme, en respectant un pattern [*Modèle - Vue - Controlleur*](https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/).
+3. Créez les classes dont vous avez besoin pour faire fonctionner le programme, en respectant un pattern [*Modèle - Vue - Controlleur*](https://baptiste-wicht.developpez.com/tutoriels/conception/mvc/). L'architecture pourra être simple (1 ou plusieurs vue(s), 1 modèle, 1 contrôleur), mais la répartitions des rôles devra être claire.
+
+> Pour cette application, vous avez plusieurs possibilités :
+> - Implémenter différents [évènements](https://docs.oracle.com/javase/8/javafx/api/javafx/event/Event.html) pour chaque couleur (*cf*. TP3).
+> - Définir vos attributs, dans le modèle, comme des [propriétés](https://docs.oracle.com/javase/8/javafx/properties-binding-tutorial/binding.htm) et faire de vos vues des [*ChangeListeners*](https://docs.oracle.com/javafx/2/api/javafx/beans/value/ChangeListener.html).
+> - Utiliser des [*EventHandlers*](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/control/TextField.html#setOnAction-javafx.event.EventHandler-) (*cf*. TP1 et 2).
 
 4. Liez les éléments les uns avec les autres pour faire fonctionner le programme.
 
@@ -35,7 +40,7 @@ Ce programme devra contenir :
 
 ___
 
-## BARÈME DU PROJET :
+**BARÈME DU PROJET :**
 
 - Interface [5 pts]
 > L'interface ressemble à celle présentée. Les éléments graphiques utilisez sont choisis intelligemment.
