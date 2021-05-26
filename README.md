@@ -40,7 +40,7 @@ Ce programme devra contenir :
 
 ___
 
-**BARÈME DU PROJET :**
+**BARÈME DU TP :**
 
 - Interface [5 pts]
 > L'interface ressemble à celle présentée. Les éléments graphiques utilisez sont choisis intelligemment.
