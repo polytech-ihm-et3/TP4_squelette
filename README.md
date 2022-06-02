@@ -55,4 +55,6 @@ ___
 
 **RENDU DU TP :**
 
-Le TP devra être rendu sous la forme d'une archive zippée (.ZIP) contenant les sources (*i.e.* le code du projet) de votre projet. Cette archive sera envoyée à l'adresse [*polytech.ihm.et3@gmail.com*](mailto:polytech.ihm.et3@gmail.com) avec le sujet "[TpNote#1] Prénom NOM".
+Le TP devra être rendu sous la forme d'une archive zippée (.ZIP) contenant les sources (*i.e.* le code du projet) de votre projet. 
+Cette archive sera déposée sur e-campus, via la zone de devoir " Rendu du TP4", section TP. 
+//Cette archive sera envoyée à l'adresse [*polytech.ihm.et3@gmail.com*](mailto:polytech.ihm.et3@gmail.com) avec le sujet "[TpNote#1] Prénom NOM".
