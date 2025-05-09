@@ -9,7 +9,7 @@
             "name": "Launch",
             "request": "launch",
             "mainClass": "application/application.Main",
-            "projectName": "et3_ihm_tp4_squelette",
+            "projectName": "et3_ihm_tp4",
             "preLaunchTask": "Maven create target"
         }
     ]
