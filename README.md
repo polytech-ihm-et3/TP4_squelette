@@ -38,7 +38,7 @@ ___
 **BARÈME DU TP :**
 
 - Interface [5 pts]
-> L'interface ressemble à celle présentée. Les éléments graphiques utilisez sont choisis intelligemment.
+> L'interface ressemble à celle présentée. Les éléments graphiques utilisés sont choisis intelligemment.
 - Fonctionnalités [5 pts]
 > Les fonctionnalités énoncées dans le sujet sont implémentées et fonctionnent correctement.
 - Modèle - Vue - Contrôleur [8 pts]
